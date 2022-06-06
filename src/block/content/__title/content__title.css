@@ -1,0 +1,6 @@
+.content__title {
+    font: 26px "DINPro", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 30px;
+}

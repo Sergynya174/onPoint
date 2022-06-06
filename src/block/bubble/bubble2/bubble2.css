@@ -1,0 +1,18 @@
+.bubble2 {
+    position: absolute;
+    bottom: 330px;
+    left: 190px;
+    animation: bubble2 4s infinite alternate ease-in;
+    z-index: 1;
+    width: 112px;
+    height: 112px;
+}
+
+@keyframes bubble2 {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.5);
+    }
+}

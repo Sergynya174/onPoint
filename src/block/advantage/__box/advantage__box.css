@@ -1,0 +1,12 @@
+.advantage__box{
+    position: relative;
+    width: 610px;
+    height: 530px;
+    margin-top: 130px;
+    margin-left: 160px;
+    padding-top: 20px;
+    padding-left: 190px;
+    opacity: 1;
+    border-radius: 40px;
+    background: #fff;
+}

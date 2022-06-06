@@ -1,0 +1,17 @@
+.bacteria4 {
+    position: absolute;
+    top: 70px;
+    right: 250px;
+    animation: bacteria4 5s infinite alternate linear;
+    width: 63px;
+    height: 57px;
+}
+
+@keyframes bacteria4 {
+    from {
+      transform: translate(50%, 70%);
+    }
+    to {
+      transform: translate(-25%, -15%);
+    }
+}

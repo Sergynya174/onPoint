@@ -1,0 +1,12 @@
+.button__home{
+    position: absolute;
+    background: none;
+    border: none;
+    top: 25px;
+    left: 65px;
+    width: 165px;
+    height: 31px;
+    background-image: url(../../../images/global.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

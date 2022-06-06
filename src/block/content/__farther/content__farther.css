@@ -1,0 +1,12 @@
+.content__farther{
+    right: 110px;
+    bottom: 200px;
+    position: absolute;
+    background: none;
+    border: none;
+    width: 301px;
+    height: 87px;
+    background-image: url(../../../images/farther.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

@@ -1,0 +1,12 @@
+.keymessage__more-detailed{
+    position: absolute;
+    left: 330px;
+    bottom: -20px;
+    width: 275px;
+    height: 87px;
+    background: none;
+    border: none;
+    background-image: url(../../../images/more_detailed.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

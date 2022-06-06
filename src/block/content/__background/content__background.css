@@ -1,0 +1,22 @@
+.content__background{
+    position: absolute;
+    top: 265px;
+    left: 130px;
+    width: 770px;
+    height: 420px;
+    border-radius: 30px;
+    background: #fff;
+    box-shadow: 0 0 30px 2px #dad9da;
+    z-index: -1;
+}
+
+.content__background::before {
+    display: block;
+    position: absolute;
+    top: 13px;
+    left: -52px;
+    width: 4px;
+    height: 97%;
+    background: black;
+    content: '';
+}

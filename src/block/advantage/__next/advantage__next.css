@@ -1,0 +1,10 @@
+.advantage__next{
+    transform: scale(-1, 1);
+    background: none;
+    border: none;
+    width: 21px;
+    height: 21px;
+    background-image: url(../../../images/arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

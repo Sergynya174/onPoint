@@ -1,0 +1,12 @@
+.advantage__close{
+    position: absolute;
+    background: none;
+    width: 33px;
+    height: 35px;
+    top: 38px;
+    right: 30px;
+    background-image: url(../../../images/btn_close.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: none;
+}

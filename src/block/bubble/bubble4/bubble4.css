@@ -1,0 +1,18 @@
+.bubble4 {
+    position: absolute;
+    bottom: 130px;
+    left: 250px;
+    animation: bubble4 5s infinite alternate linear;
+    z-index: 1;
+    width: 62px;
+    height: 62px;
+}
+
+@keyframes bubble4 {
+    from {
+      transform: scale(1) translate(0%, -30%);
+    }
+    to {
+      transform: scale(1.2) translate(0%, 30%);
+    }
+}

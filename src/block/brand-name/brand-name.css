@@ -1,0 +1,9 @@
+.brand-name{
+    position: absolute;
+    top: 140px;
+    left: 345px;
+    font: lighter 95px/1.2 "Gilroy", sans-serif;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    z-index: 2;
+}

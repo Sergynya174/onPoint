@@ -1,0 +1,10 @@
+.content__shadow {
+    position: absolute;
+    top: 265px;
+    left: 130px;
+    width: 770px;
+    height: 425px;
+    border-radius: 30px;
+    box-shadow: inset 0 -40px 20px -5px #fff;
+    z-index: 1;
+}

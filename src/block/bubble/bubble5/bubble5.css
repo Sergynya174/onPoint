@@ -1,0 +1,18 @@
+.bubble5 {
+    position: absolute;
+    top: 180px;
+    left: 230px;
+    animation: bubble5 6s infinite alternate linear;
+    z-index: 3;
+    width: 68px;
+    height: 69px;
+}
+
+@keyframes bubble5 {
+    from {
+      transform: scale(1) translate(0%, 0%);
+    }
+    to {
+      transform: scale(1.2) translate(-50%, 30%);
+    }
+}

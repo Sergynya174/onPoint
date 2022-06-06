@@ -1,0 +1,18 @@
+.bubble8 {
+    position: absolute;
+    bottom: 150px;
+    left: 25px;
+    animation: bubble8 3s infinite alternate ease-in;
+    z-index: 3;
+    width: 75px;
+    height: 75px;
+}
+
+@keyframes bubble8 {
+    from {
+      transform: scale(1) translate(0%, 0%);
+    }
+    to {
+      transform: scale(1.1) translate(30%, 10%);
+    }
+}

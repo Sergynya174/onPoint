@@ -1,0 +1,18 @@
+.bubble7 {
+    position: absolute;
+    bottom: 300px;
+    left: 30px;
+    animation: bubble7 3s infinite alternate ease-in;
+    z-index: 3;
+    width: 33px;
+    height: 33px;
+}
+
+@keyframes bubble7 {
+  from {
+    transform: translate(0%, 0%);
+  }
+  to {
+    transform: translate(-30%, -60%);
+  }
+}

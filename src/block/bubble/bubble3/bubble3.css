@@ -1,0 +1,18 @@
+.bubble3 {
+    position: absolute;
+    top: 70px;
+    left: 200px;
+    animation: bubble3 4s infinite alternate linear;
+    z-index: 1;
+    width: 37px;
+    height: 38px;
+}
+
+@keyframes bubble3 {
+    from {
+      transform: translate(-40%, 50%);
+    }
+    to {
+      transform: translate(30%, -50%);
+    }
+}

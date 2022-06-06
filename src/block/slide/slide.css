@@ -1,0 +1,7 @@
+.slide{
+    position: relative;
+    width: 1024px;
+    height: 768px;
+    display: flex;
+    flex-shrink: 0;
+}

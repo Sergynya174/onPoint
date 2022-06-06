@@ -1,0 +1,32 @@
+.keymessage__box{
+    position: relative;
+    margin-top: 180px;
+    margin-left: 350px;
+    font: 28px/1.2 "Gilroy", sans-serif;
+}
+
+.keymessage__box::after {
+    position: absolute;
+    left: -100px;
+    bottom: -15px;
+    width: 400px;
+    height: 290px;
+    background: #fff;
+    box-shadow: 0 0 30px 2px #dad9da;
+    border-radius: 40px;
+    content: '';
+    z-index: -1;
+}
+
+.keymessage__box::before {
+    position: absolute;
+    left: 335px;
+    bottom: 105px;
+    width: 265px;
+    height: 170px;
+    background: #fff;
+    box-shadow: 0 0 30px 2px #dad9da;
+    border-radius: 40px;
+    content: '';
+    z-index: -1;
+}

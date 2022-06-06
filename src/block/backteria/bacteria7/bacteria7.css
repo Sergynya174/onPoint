@@ -1,0 +1,20 @@
+.bacteria7 {
+    position: absolute;
+    right: 260px;
+    bottom: -100px;
+    animation: bacteria7 6s infinite alternate linear;
+    width: 227px;
+    height: 204px;
+}
+
+@keyframes bacteria7 {
+    from {
+      transform: scale(1.2) rotate(0deg) translate(-10%, -5%);
+    }
+    50% {
+      transform: scale(1.1) rotate(5deg) translate(-5%, -3%);
+    }
+    to {
+      transform: scale(1) rotate(0deg) translate(0, 0);
+    }
+}

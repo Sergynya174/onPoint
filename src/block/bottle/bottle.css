@@ -1,0 +1,8 @@
+.bottle{
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    z-index: 2;
+    width: 233px;
+    height: 689px;
+}

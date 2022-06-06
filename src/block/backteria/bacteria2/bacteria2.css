@@ -1,0 +1,27 @@
+.bacteria2 {
+    position: absolute;
+    top: 210px;
+    right: 60px;
+    animation: bacteria2 40s infinite normal linear;
+    z-index: 2;
+    width: 111px;
+    height: 114px;
+}
+
+@keyframes bacteria2 {
+    from {
+      transform: scale(0.9) rotate(0deg) translate(0, 0);
+    }
+    25% {
+      transform: scale(1.0) rotate(90deg) translate(-70%, 120%);
+    }
+    50% {
+      transform: scale(1.1) rotate(180deg) translate(80%, 0%);
+    }
+    75% {
+      transform: scale(1.2) rotate(270deg) translate(70%, 20%);
+    }
+    to {
+      transform: scale(0.9) rotate(360deg) translate(0, 0);
+    }
+}

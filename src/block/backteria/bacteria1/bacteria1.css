@@ -1,0 +1,18 @@
+.bacteria1{
+    position: absolute;
+    bottom: 185px;
+    left: 25px;
+    animation: bacteria1 5s infinite alternate linear;
+    z-index: -1;
+    width: 73px;
+    height: 71px;
+}
+
+@keyframes bacteria1 {
+    from {
+      transform: translate(-10%, -20%);
+    }
+    to {
+      transform: translate(30%, 60%);
+    }
+}

@@ -1,0 +1,5 @@
+.keymessage__columns {
+    columns: 2;
+    column-gap: 70px;
+    margin-top: 140px;
+}

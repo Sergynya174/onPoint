@@ -1,0 +1,19 @@
+.content__box-second {
+    position: relative;
+    width: 700px;
+    height: 380px; 
+    margin-top: 55px;
+    margin-left: 0;
+    padding: 0px 80px 30px 70px;
+    overflow-x: hidden;
+    direction: rtl;
+}
+
+.content__box-second::-webkit-scrollbar {
+    width: 20px;
+}
+    
+.content__box-second::-webkit-scrollbar-thumb {
+    border-radius: 20em;
+    background: no-repeat url(../../../images/btn.png);
+}

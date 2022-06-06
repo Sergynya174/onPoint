@@ -1,13 +1,60 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./fonts/DINPro/stylesheet.css);
+@import url(./fonts/Gilroy/stylesheet.css);
+@import url(./block/block.css);
+@import url(./block/wrapper/wrapper.css);
+@import url(./block/slider/slider.css);
+@import url(./block/slide/slide.css);
+@import url(./block/content/__farther/content__farther.css);
+@import url(./block/content/__box-first/content__box-first.css);
+@import url(./block/content/__subtitle/content__subtitle.css);
+@import url(./block/backteria/bacteria1/bacteria1.css);
+@import url(./block/backteria/bacteria2/bacteria2.css);
+@import url(./block/backteria/bacteria3/bacteria3.css);
+@import url(./block/backteria/bacteria4/bacteria4.css);
+@import url(./block/backteria/bacteria5/bacteria5.css);
+@import url(./block/backteria/bacteria6/bacteria6.css);
+@import url(./block/backteria/bacteria7/bacteria7.css);
+@import url(./block/bubble/bubble1/bubble1.css);
+@import url(./block/bubble/bubble2/bubble2.css);
+@import url(./block/bubble/bubble3/bubble3.css);
+@import url(./block/bubble/bubble4/bubble4.css);
+@import url(./block/bubble/bubble5/bubble5.css);
+@import url(./block/bubble/bubble6/bubble6.css);
+@import url(./block/bubble/bubble7/bubble7.css);
+@import url(./block/bubble/bubble8/bubble8.css);
+@import url(./block/sperm/sperm-1/sperm-1.css);
+@import url(./block/sperm/sperm-2/sperm-2.css);
+@import url(./block/sperm/sperm-3/sperm-3.css);
+@import url(./block/sperm/sperm-4/sperm-4.css);
+@import url(./block/sperm/sperm-5/sperm-5.css);
+@import url(./block/sperm/sperm-6/sperm-6.css);
+@import url(./block/sperm/sperm-7/sperm-7.css);
+@import url(./block/advantage/advantage.css);
+@import url(./block/button/__home/button__home.css);
+@import url(./block/advantage/__next/advantage__next.css);
+@import url(./block/advantage/__prev/advantage__prev.css);
+@import url(./block/advantage/__close/advantage__close.css);
+@import url(./block/advantage/__box/advantage__box.css);
+@import url(./block/advantage/__button-box/advantage__button-box.css);
+@import url(./block/advantage/__item/advantage__item.css);
+@import url(./block/advantage/__list/advantage__list.css);
+@import url(./block/advantage/__text/advantage__text.css);
+@import url(./block/advantage/__title/advantage__title.css);
+@import url(./block/keymessage/__box/keymessage__box.css);
+@import url(./block/keymessage/__columns/keymessage__columns.css);
+@import url(./block/keymessage/__more-detailed/keymessage__more-detailed.css);
+@import url(./block/keymessage/__text/keymessage__text.css);
+@import url(./block/keymessage/__title/keymessage__title.css);
+@import url(./block/keymessage/__notes/keymessage__notes.css);
+@import url(./block/keymessage/__plate/keymessage__plate.css);
+@import url(./block/content/content.css);
+@import url(./block/content/__box-second/content__box-second.css);
+@import url(./block/content/__background/content__background.css);
+@import url(./block/content/__shadow/content__shadow.css);
+@import url(./block/content/__text/content__text.css);
+@import url(./block/content/__title/content__title.css);
+@import url(./block/bottle/bottle.css);
+@import url(./block/image/__plate/image__plate.css);
+@import url(./block/image/__notes/image__notes.css);
+@import url(./block/brand-name/brand-name.css);
+@import url(./block/logo/logo.css);

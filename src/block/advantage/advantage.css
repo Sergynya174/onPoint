@@ -1,0 +1,15 @@
+.advantage{
+    width: 100%;
+    background: #16273e;
+    animation: bg-opacity 500ms 1 alternate linear;
+    opacity: 0.7;
+}
+
+@keyframes bg-opacity {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 0.7;
+    }
+}
