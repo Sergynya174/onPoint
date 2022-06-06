@@ -1,7 +1,7 @@
 @import url(./fonts/DINPro/stylesheet.css);
 @import url(./fonts/Gilroy/stylesheet.css);
-@import url(./block/block.css);
 @import url(./block/wrapper/wrapper.css);
+@import url(./block/slider/slider.css);
 @import url(./block/slide/slide.css);
 @import url(./block/content/__farther/content__farther.css);
 @import url(./block/content/__box-first/content__box-first.css);

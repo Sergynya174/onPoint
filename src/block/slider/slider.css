@@ -1,0 +1,6 @@
+.slider{
+    display: flex;
+    width: 3072px;
+    background-image: url(../../images/bg.png);
+    transition: 1s;
+}
