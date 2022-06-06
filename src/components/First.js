@@ -21,8 +21,8 @@ function First({ setSlide }) {
       </div>
       <button className="content__farther" onClick={setSlide(1)}></button>
 
-      <img src={sperm1} className="sperm-1" />
-      <img src={sperm2} className="sperm-2" />
+      <img src={sperm1} className="sperm-1" alt="sperm" />
+      <img src={sperm2} className="sperm-2" alt="sperm" />
       <img src={bacteria1} className="bacteria1" alt="bacteria" />
       <img src={bacteria2} className="bacteria2" alt="bacteria" />
       <img src={bacteria3} className="bacteria3" alt="bacteria" />
